@@ -1,4 +1,4 @@
-require("dotenv").config({ path: './server/.env' });
+require("dotenv").config();
 //console.log(process.env);
 
 // Import modules
